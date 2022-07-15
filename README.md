@@ -11,11 +11,11 @@ cd Viettel_5G_course
 make
 .\gNB
 ```
-Mở một terminal khác 
+Mở một terminal khác trong cùng directory Viettel_5G_course
 ```php
 .\UE
 ```
-Mở một terminal khác 
+Mở một terminal khác trong cùng directory Viettel_5G_course 
 ```php
 .\AMF
 ```
