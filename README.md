@@ -8,3 +8,11 @@ git clone https://github.com/PhanTuanHust2018/Viettel_5G_course.git
 make
 .\gNB
 ```
+Mở một terminal khác 
+```php
+.\UE
+```
+Mở một terminal khác 
+```php
+.\AMF
+```
